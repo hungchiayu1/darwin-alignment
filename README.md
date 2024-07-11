@@ -3,7 +3,8 @@ DARWIN is a decode-time alignment technique that uses a reward-guided tree searc
 
 Paper Link: https://arxiv.org/abs/2406.15193
 
-
+## THIS REPO IS OUTDATED. Code is available on 
+https://github.com/declare-lab/darwin
 # How to use?
 To run darwin, check out the demo notebook. You can run darwin with just a few lines of code!
 
